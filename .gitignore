@@ -1,0 +1,8 @@
+.env
+utils all.py
+iapp.py
+app.py
+__pycache__/
+learn/
+grocCopy.ipynb
+groc.py

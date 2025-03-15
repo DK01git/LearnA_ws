@@ -1,0 +1,124 @@
+{
+  "personal_information": {
+    "name": {
+      "first": "Gayashan",
+      "last": "Wagachchi"
+    },
+    "email": {
+      "address": "example@example.com",
+      "validated": true
+    },
+    "social_profiles": {
+      "linkedin": "https://lk.linkedin.com/in/gayashan4lk",
+      "the_org": "https://theorg.com/org/bistec-global-services/org-chart/gayashan-wagachchi",
+      "rocketreach": "https://rocketreach.co/gayashan-wagachchi-email_16665346"
+    }
+  },
+  "educational_background": [
+    {
+      "degree": "Bachelor's degree",
+      "field_of_study": "Computer Science",
+      "institution": "University of Colombo",
+      "duration": "2011 - 2015"
+    },
+    {
+      "degree": "General Certificate of Education",
+      "field_of_study": "A-Level (Biological Sciences)",
+      "institution": "Rajapaksa College, Sri Lanka",
+      "duration": "2008 - 2010"
+    },
+    {
+      "degree": "General Certificate of Education",
+      "field_of_study": "A-Level (Physical Sciences)",
+      "type": "Private Candidate"
+    }
+  ],
+  "professional_experience": [
+    {
+      "position": "Senior Software Engineer",
+      "company": "BISTEC Global Services",
+      "duration": "2023 - Present",
+      "achievements": [
+        "Lead development of multiple web applications",
+        "Implemented Agile methodologies"
+      ]
+    },
+    {
+      "position": "Associate Software Engineer",
+      "company": "BISTEC Global Services",
+      "duration": "2022 - 2023",
+      "achievements": [
+        "Assisted in backend development",
+        "Supported project management tasks"
+      ]
+    },
+    {
+      "position": "Software Development Intern",
+      "company": "BISTEC Global Services",
+      "duration": "2022",
+      "achievements": [
+        "Gained practical experience in software development"
+      ]
+    },
+    {
+      "position": "Freelance Web Developer",
+      "duration": "2020 - 2022",
+      "achievements": [
+        "Delivered custom web solutions for clients"
+      ]
+    },
+    {
+      "position": "Freelance Graphic Designer",
+      "duration": "2015 - 2019",
+      "achievements": [
+        "Designed branding materials for various clients"
+      ]
+    }
+  ],
+  "skills": {
+    "programming_languages": {
+      "JavaScript": "Advanced",
+      "Python": "Advanced",
+      "C#": "Intermediate",
+      "Java": "Intermediate",
+      "PHP": "Intermediate"
+    },
+    "web_development": {
+      "HTML": "Advanced",
+      "CSS": "Advanced",
+      "React": "Intermediate",
+      ".NET": "Intermediate",
+      "ASP.NET Core": "Intermediate"
+    },
+    "databases": {
+      "MySQL": "Intermediate",
+      "SQL": "Intermediate"
+    }
+  },
+  "coding_behavior": {
+    "preferred_language": "Python",
+    "development_methodologies": [
+      "Agile",
+      "Scrum"
+    ],
+    "collaboration_tools": [
+      "Git",
+      "Jira",
+      "Slack"
+    ]
+  },
+  "writing_topics": [
+    {
+      "title": "DApp development with Truffle on Ethereum Blockchain for absolute beginners",
+      "publication_date": "December 19, 2022",
+      "style": "Tutorial"
+    },
+    {
+      "title": "12 Rules for RDBMS by E.F. Codd",
+      "publication_date": "January 21, 2023",
+      "style": "Analytical"
+    }
+  ],
+  "projects": [],
+  "publications": []
+}
