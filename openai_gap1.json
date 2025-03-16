@@ -1,0 +1,70 @@
+{
+  "Personal Information": {
+    "name": {
+      "first": "Diluksha",
+      "last": "Perera"
+    },
+    "contact": {
+      "email": "diluksha.perera@example.com",
+      "social_profiles": {
+        "LinkedIn": "https://lk.linkedin.com/in/diluksha-perera-081a84226",
+        "Facebook": "https://www.facebook.com/people/Diluksha-Perera/100011308260329/"
+      }
+    }
+  },
+  "Educational Background": [
+    {
+      "degree": "Bachelor of Science in Applied Data Science and Communication",
+      "institution": "General Sir John Kotelawala Defense University",
+      "timeline": "Completed in 2024"
+    }
+  ],
+  "Professional Experience": [
+    {
+      "role": "Data Engineer",
+      "company": "BISTEC Global Services",
+      "duration": "Dec 2024 - Present",
+      "details": {
+        "description": "Involved in various data engineering projects.",
+        "achievements": [
+          "Contributed to significant improvements in the data pipeline."
+        ]
+      }
+    },
+    {
+      "role": "Student Ambassador",
+      "company": "Microsoft Learn",
+      "duration": "Feb 2024 - Present",
+      "details": {
+        "description": "Facilitating learning opportunities for peers."
+      }
+    }
+  ],
+  "Skills": {
+    "Data Science": {
+      "skills": [
+        "Data analysis",
+        "Applied Data Science"
+      ],
+      "proficiency": "Advanced"
+    },
+    "Communication": {
+      "skills": [
+        "Communication"
+      ],
+      "proficiency": "Intermediate"
+    }
+  },
+  "Coding Behavior": {
+    "patterns": "Active in using Azure and data engineering concepts; engages in community discussions.",
+    "preferences": "Prefers collaborative and open-source environments."
+  },
+  "Writing Topics": {
+    "areas": [
+      "Data Engineering",
+      "Applied Data Science",
+      "Cloud Computing"
+    ],
+    "expertise": "Regular contributor on Medium and educational platforms."
+  }
+}

@@ -1,124 +1,78 @@
 {
-  "personal_information": {
-    "name": {
-      "first": "Gayashan",
-      "last": "Wagachchi"
-    },
-    "email": {
-      "address": "example@example.com",
-      "validated": true
-    },
-    "social_profiles": {
-      "linkedin": "https://lk.linkedin.com/in/gayashan4lk",
-      "the_org": "https://theorg.com/org/bistec-global-services/org-chart/gayashan-wagachchi",
-      "rocketreach": "https://rocketreach.co/gayashan-wagachchi-email_16665346"
+  "PersonalInformation": {
+    "firstName": "Diluksha",
+    "lastName": "Perera",
+    "email": "d******@bistecglobal.com",
+    "socialProfiles": {
+      "LinkedIn": "https://lk.linkedin.com/in/diluksha-perera-081a84226",
+      "Facebook": "https://www.facebook.com/people/Diluksha-Perera/100011308260329/",
+      "Instagram": "https://www.instagram.com/diluksha.perera/"
     }
   },
-  "educational_background": [
+  "EducationalBackground": [
     {
-      "degree": "Bachelor's degree",
-      "field_of_study": "Computer Science",
-      "institution": "University of Colombo",
-      "duration": "2011 - 2015"
-    },
-    {
-      "degree": "General Certificate of Education",
-      "field_of_study": "A-Level (Biological Sciences)",
-      "institution": "Rajapaksa College, Sri Lanka",
-      "duration": "2008 - 2010"
-    },
-    {
-      "degree": "General Certificate of Education",
-      "field_of_study": "A-Level (Physical Sciences)",
-      "type": "Private Candidate"
+      "degree": "Bachelor of Science in Applied Data Science and Communication",
+      "institution": "General Sir John Kotelawala Defense University",
+      "yearCompleted": "2023"
     }
   ],
-  "professional_experience": [
+  "ProfessionalExperience": [
     {
-      "position": "Senior Software Engineer",
+      "title": "Data Engineer",
       "company": "BISTEC Global Services",
       "duration": "2023 - Present",
       "achievements": [
-        "Lead development of multiple web applications",
-        "Implemented Agile methodologies"
+        "Represented BISTEC Global Services at the Power Platform Community Meetup"
       ]
     },
     {
-      "position": "Associate Software Engineer",
-      "company": "BISTEC Global Services",
-      "duration": "2022 - 2023",
+      "title": "Software Engineer",
+      "company": "Eurowpe Network (Private) Limited",
+      "duration": "2021 - 2023",
       "achievements": [
-        "Assisted in backend development",
-        "Supported project management tasks"
-      ]
-    },
-    {
-      "position": "Software Development Intern",
-      "company": "BISTEC Global Services",
-      "duration": "2022",
-      "achievements": [
-        "Gained practical experience in software development"
-      ]
-    },
-    {
-      "position": "Freelance Web Developer",
-      "duration": "2020 - 2022",
-      "achievements": [
-        "Delivered custom web solutions for clients"
-      ]
-    },
-    {
-      "position": "Freelance Graphic Designer",
-      "duration": "2015 - 2019",
-      "achievements": [
-        "Designed branding materials for various clients"
+        "Contributed to various software development projects"
       ]
     }
   ],
-  "skills": {
-    "programming_languages": {
-      "JavaScript": "Advanced",
-      "Python": "Advanced",
-      "C#": "Intermediate",
-      "Java": "Intermediate",
-      "PHP": "Intermediate"
+  "Skills": {
+    "DataScience": {
+      "proficiency": "85",
+      "confidence": 85
     },
-    "web_development": {
-      "HTML": "Advanced",
-      "CSS": "Advanced",
-      "React": "Intermediate",
-      ".NET": "Intermediate",
-      "ASP.NET Core": "Intermediate"
+    "SoftwareDevelopment": {
+      "proficiency": "85",
+      "confidence": 85
     },
-    "databases": {
-      "MySQL": "Intermediate",
-      "SQL": "Intermediate"
+    "DataEngineering": {
+      "proficiency": "90",
+      "confidence": 90
+    },
+    "AppliedSciences": {
+      "proficiency": "80",
+      "confidence": 80
     }
   },
-  "coding_behavior": {
-    "preferred_language": "Python",
-    "development_methodologies": [
-      "Agile",
-      "Scrum"
+  "CodingBehavior": {
+    "patterns": "Primary focus on data science and software development. No code repositories available for assessment.",
+    "preferences": "Uses tools and frameworks suitable for data engineering tasks."
+  },
+  "WritingTopics": {
+    "expertiseAreas": [
+      "Data Engineering",
+      "Data Science",
+      "Power BI",
+      "Azure Synapse"
     ],
-    "collaboration_tools": [
-      "Git",
-      "Jira",
-      "Slack"
+    "thoughtLeadership": [
+      "Active contributions on Medium regarding data engineering topics."
     ]
   },
-  "writing_topics": [
-    {
-      "title": "DApp development with Truffle on Ethereum Blockchain for absolute beginners",
-      "publication_date": "December 19, 2022",
-      "style": "Tutorial"
-    },
-    {
-      "title": "12 Rules for RDBMS by E.F. Codd",
-      "publication_date": "January 21, 2023",
-      "style": "Analytical"
-    }
-  ],
-  "projects": [],
-  "publications": []
+  "Discrepancies": {
+    "User-Reported Skills vs. Discovered Information": "No discrepancies noted as skills align with professional mentions."
+  },
+  "AdditionalInformationSources": [
+    "Facebook",
+    "LinkedIn",
+    "BISTEC Global Services Official Website"
+  ]
 }
