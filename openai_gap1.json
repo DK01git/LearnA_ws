@@ -1,70 +1,91 @@
 {
-  "Personal Information": {
-    "name": {
-      "first": "Diluksha",
-      "last": "Perera"
-    },
+  "personal_information": {
+    "full_name": "Diluksha Perera",
     "contact": {
-      "email": "diluksha.perera@example.com",
+      "email": "not provided",
       "social_profiles": {
         "LinkedIn": "https://lk.linkedin.com/in/diluksha-perera-081a84226",
         "Facebook": "https://www.facebook.com/people/Diluksha-Perera/100011308260329/"
       }
     }
   },
-  "Educational Background": [
+  "educational_background": [
     {
-      "degree": "Bachelor of Science in Applied Data Science and Communication",
+      "degree": "B.Sc. in Applied Data Science & Communication",
       "institution": "General Sir John Kotelawala Defense University",
-      "timeline": "Completed in 2024"
+      "duration": "2022 - Present"
     }
   ],
-  "Professional Experience": [
+  "professional_experience": [
     {
-      "role": "Data Engineer",
+      "job_title": "Associate Data Engineer",
       "company": "BISTEC Global Services",
       "duration": "Dec 2024 - Present",
-      "details": {
-        "description": "Involved in various data engineering projects.",
-        "achievements": [
-          "Contributed to significant improvements in the data pipeline."
-        ]
-      }
+      "achievements": [
+        "Actively involved in building scalable ETL pipelines with PySpark in Azure.",
+        "Contributed insights and participated in discussions relevant to data engineering."
+      ]
     },
     {
-      "role": "Student Ambassador",
-      "company": "Microsoft Learn",
-      "duration": "Feb 2024 - Present",
-      "details": {
-        "description": "Facilitating learning opportunities for peers."
-      }
+      "job_title": "Microsoft Learn Student Ambassador",
+      "duration": "Feb 2024 - Apr 2024",
+      "achievements": [
+        "Hosted sessions on data engineering topics, enhancing educational outreach in the technology community."
+      ]
     }
   ],
-  "Skills": {
-    "Data Science": {
+  "skills": {
+    "Cloud Computing": {
       "skills": [
-        "Data analysis",
-        "Applied Data Science"
-      ],
-      "proficiency": "Advanced"
+        {
+          "name": "Azure Certified",
+          "proficiency": "Expert"
+        },
+        {
+          "name": "Google Certified Data Analyst",
+          "proficiency": "Intermediate"
+        }
+      ]
     },
-    "Communication": {
+    "Data Engineering": {
       "skills": [
-        "Communication"
-      ],
-      "proficiency": "Intermediate"
+        {
+          "name": "Data Engineering",
+          "proficiency": "Expert"
+        },
+        {
+          "name": "PySpark",
+          "proficiency": "Intermediate"
+        }
+      ]
     }
   },
-  "Coding Behavior": {
-    "patterns": "Active in using Azure and data engineering concepts; engages in community discussions.",
-    "preferences": "Prefers collaborative and open-source environments."
-  },
-  "Writing Topics": {
-    "areas": [
-      "Data Engineering",
-      "Applied Data Science",
-      "Cloud Computing"
+  "coding_behavior": {
+    "patterns": [
+      "Focus on scalable solutions and cloud-based architectures.",
+      "Prefers using open-source tools and frameworks."
     ],
-    "expertise": "Regular contributor on Medium and educational platforms."
+    "preferences": {
+      "preferred_languages": [
+        "Python",
+        "SQL"
+      ],
+      "development_tools": [
+        "Azure Synapse",
+        "Power BI"
+      ]
+    }
+  },
+  "writing_topics": {
+    "topics": [
+      "Data Engineering",
+      "Power BI",
+      "Azure Synapse"
+    ],
+    "expertise_areas": [
+      "Cloud Computing",
+      "Machine Learning",
+      "Data Analytics"
+    ]
   }
 }
