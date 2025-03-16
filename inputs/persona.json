@@ -1,0 +1,78 @@
+{
+  "PersonalInformation": {
+    "firstName": "Diluksha",
+    "lastName": "Perera",
+    "email": "d******@bistecglobal.com",
+    "socialProfiles": {
+      "LinkedIn": "https://lk.linkedin.com/in/diluksha-perera-081a84226",
+      "Facebook": "https://www.facebook.com/people/Diluksha-Perera/100011308260329/",
+      "Instagram": "https://www.instagram.com/diluksha.perera/"
+    }
+  },
+  "EducationalBackground": [
+    {
+      "degree": "Bachelor of Science in Applied Data Science and Communication",
+      "institution": "General Sir John Kotelawala Defense University",
+      "yearCompleted": "2023"
+    }
+  ],
+  "ProfessionalExperience": [
+    {
+      "title": "Data Engineer",
+      "company": "BISTEC Global Services",
+      "duration": "2023 - Present",
+      "achievements": [
+        "Represented BISTEC Global Services at the Power Platform Community Meetup"
+      ]
+    },
+    {
+      "title": "Software Engineer",
+      "company": "Eurowpe Network (Private) Limited",
+      "duration": "2021 - 2023",
+      "achievements": [
+        "Contributed to various software development projects"
+      ]
+    }
+  ],
+  "Skills": {
+    "DataScience": {
+      "proficiency": "85",
+      "confidence": 85
+    },
+    "SoftwareDevelopment": {
+      "proficiency": "85",
+      "confidence": 85
+    },
+    "DataEngineering": {
+      "proficiency": "90",
+      "confidence": 90
+    },
+    "AppliedSciences": {
+      "proficiency": "80",
+      "confidence": 80
+    }
+  },
+  "CodingBehavior": {
+    "patterns": "Primary focus on data science and software development. No code repositories available for assessment.",
+    "preferences": "Uses tools and frameworks suitable for data engineering tasks."
+  },
+  "WritingTopics": {
+    "expertiseAreas": [
+      "Data Engineering",
+      "Data Science",
+      "Power BI",
+      "Azure Synapse"
+    ],
+    "thoughtLeadership": [
+      "Active contributions on Medium regarding data engineering topics."
+    ]
+  },
+  "Discrepancies": {
+    "User-Reported Skills vs. Discovered Information": "No discrepancies noted as skills align with professional mentions."
+  },
+  "AdditionalInformationSources": [
+    "Facebook",
+    "LinkedIn",
+    "BISTEC Global Services Official Website"
+  ]
+}
